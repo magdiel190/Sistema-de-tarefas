@@ -1,0 +1,78 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-image: url(../8k.jpg);
+	background-size: 100% 760px;
+}
+.position{
+	top: 8px;
+	width: 440px;
+	height: 350px;
+	left: 15px;
+	border: 2px solid #000;
+	float: left;
+	position:relative;
+	border-radius: 15px;
+	background-color: #DCDCDC;
+	font-family:Arial, Helvetica, sans-serif;
+	opacity: 0.8;
+}
+.position input{
+	position: relative;
+	left: 10px;
+}
+.position button{
+	position: relative;
+	left: 10px;
+}
+.posicao{
+	top: 15px;
+	width: 440px;
+	height: 250px;
+	left: 15px;
+	border: 2px solid #000;
+	float: left;
+	position:relative;
+	border-radius: 15px;
+	background-color: #DCDCDC;
+	font-family:Arial, Helvetica, sans-serif;
+	opacity: 0.8;
+}
+.position h1{
+	position: relative;
+	top: 5px;
+	text-align: center;
+}
+.posicao h2{
+	position: relative;
+	top: 5px;
+	text-align: center;
+}
+.posicao textarea{
+	position: relative;
+	top: 15px;
+	left: 130px;
+}
+.posicao button{
+	position: relative;
+	top: 50px;
+	left: -13px;
+	background-color: #FFF;
+}
+.posicao input{
+	position: relative;
+	top: 15px;
+	left: 130px;
+}
+.posicao p{
+	position: relative;
+	left: 130px;
+	top: 15px;
+}
+.position button{
+	position: relative;
+	left: 190px;
+	top: 10px;
+}

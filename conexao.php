@@ -1,6 +1,6 @@
 <?php
 	try{ //tente
-		$conexao = new PDO("mysql:host=localhost;dbname=","root", "");//PHP DATA OBJECT
+		$taref = new PDO("mysql:host=localhost;dbname=tarefasbd","root", "");//PHP DATA OBJECT
 		// echo "deu certo";
 	}
 	catch (PDOException $e){ //Bloco correspondente ao try
